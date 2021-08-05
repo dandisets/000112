@@ -12,7 +12,8 @@ citation: Test (2021). (Version draft) [Data set]. DANDI archive. https://dandia
 description: BLA
 id: DANDI:000112/draft
 identifier: DANDI:000112
-manifestLocation: []
+manifestLocation:
+- https://api.dandiarchive.org/api/dandisets/000112/versions/draft/assets/
 name: Test
 schemaKey: Dandiset
 schemaVersion: 0.4.4
